@@ -9,7 +9,7 @@ A network scanner is a valuable tool in the realm of network security and admini
 1. **Download the Source Code:**
     - Clone the repository to your local machine using the following command:
         ```sh
-        git clone https://github.com/your-username/network-scanner.git
+        git clone https://github.com/WathsalaDewmina/Network-Scanner.git
         ```
 
 2. **Install Dependencies:**
