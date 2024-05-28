@@ -4,6 +4,9 @@
 
 A network scanner is a valuable tool in the realm of network security and administration. It allows you to discover devices connected to your network, identify open ports, detect potential vulnerabilities, and monitor network activity. Network scanners are essential for network administrators, penetration testers, and security professionals to maintain network integrity and security.
 
+<img src="netScanner.png" alt="MAC Address Changer Screenshot" width="600"/>
+
+
 ## Installation
 
 1. **Download the Source Code:**
