@@ -15,9 +15,12 @@ A network scanner is a valuable tool in the realm of network security and admini
 2. **Install Dependencies:**
     - Ensure you have [pip](https://pypi.org/project/pip/) installed on your machine.
     - Also make you you have python2 or python3 installed in your device - [python](https://www.python.org/downloads/)
-    - Install the required Python module `scapy` using the following command:
+
+      
+3. **Install Modules:**
+    - Install the required Python packages using `requirements.txt`:
         ```sh
-        pip3 install scapy
+        pip3 install -r requirements.txt
         ```
 
 ## Running the Script
